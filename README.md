@@ -26,7 +26,7 @@ ChatGPT的横空出世真的改变了世界，用过的人都知道ChatGPT完全
 **本项目定位是个人或朋友之间分享使用，轻量设计，不计划引入数据库等复杂功能。有需要的用户可以自行拿去修改，版权没有，改动不究。对于项目UI或其他功能有改进想法的朋友欢迎提交PR，或者在Issues或Discussions进行讨论。**
 
 ------
-# 测试网址：http://mm1.ltd
+# 测试网址：
 ![t1](https://user-images.githubusercontent.com/5563148/232330560-1b6a45f3-fcc1-4d3e-a2f7-b1c9878fe9cd.jpg)
 ![t2](https://user-images.githubusercontent.com/5563148/232330566-c6ea7fb3-474f-45e4-adda-37f3db27b92a.jpg)
 ![t3](https://github.com/dirk1983/chatgpt/assets/5563148/732b5bed-7e9c-4c07-9865-9b97957781a7)
